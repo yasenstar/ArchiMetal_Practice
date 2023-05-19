@@ -36,6 +36,14 @@
 
 - [Figure 05 Snapshot Model](./ArchiMetal_Transformation_Challenges/ArchiMetal_05-Hot-Strip-Mill.archimate)
 - [Figure 05 Modeling Video](https://youtu.be/ItmQSrDfCIA)
-- -![Figure 05](/ArchiMetal_Transformation_Challenges/Figure05_Hot-Strip-Mill.jpg)
+- ![Figure 05](/ArchiMetal_Transformation_Challenges/Figure05_Hot-Strip-Mill.jpg)
+
+---
+
+## Problem Analysis - Overall Challenges
+
+- [Figure 06 Snapshot Model](./ArchiMetal_Transformation_Challenges/ArchiMetal_06-Overall-Challenges.archimate)
+- [Figure 06 Modeling Video](https://youtu.be/O7gYKvFc68M)
+- ![Figure 06](ArchiMetal_Transformation_Challenges/Figure06_Overall-Challenges.jpg)
 
 ---
