@@ -11,11 +11,11 @@
   <folder name="Views" id="id-2c69390ec6ac465785f8fb0b31272cee" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-8ad6c4933f22487281a2e3a873c32dee">
       <child xsi:type="archimate:Note" id="id-c1cfb014a27c423d98a0c7127a60c480" font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
-        <bounds x="204" y="24" width="466" height="44"/>
+        <bounds x="204" y="12" width="466" height="37"/>
         <feature name="labelExpression" value="$view{name}"/>
       </child>
       <child xsi:type="archimate:Note" id="id-a80601ad36b44c0d8ff64f668496834e" textAlignment="1" borderType="2">
-        <bounds x="624" y="324" width="215" height="42"/>
+        <bounds x="624" y="372" width="215" height="42"/>
         <feature name="labelExpression" value="Last Update at: $view{property:Last Update}&#xD;&#xA;Last Updateby: $view{property:Last Updated by}"/>
       </child>
       <property key="Last Update" value="2023-05-19"/>
