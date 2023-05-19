@@ -78,8 +78,8 @@
 </hook>
 <node TEXT="1. Introduction" POSITION="right" ID="ID_504371281" CREATED="1684495764094" MODIFIED="1684495794814"/>
 <node TEXT="2. ArchiMetal Transformation Challenges (7 views)" POSITION="right" ID="ID_1913450260" CREATED="1684495774629" MODIFIED="1684497179993">
-<node TEXT="Figure 01: ArchiMetal Business Units" ID="ID_981986382" CREATED="1684495909402" MODIFIED="1684499005065"/>
-<node TEXT="Figure 02: Value Stream of ArchiMetal" ID="ID_436555127" CREATED="1684495931626" MODIFIED="1684495945220"/>
+<node TEXT="Figure 01: ArchiMetal Business Units" ID="ID_981986382" CREATED="1684495909402" MODIFIED="1684509413133" LINK="https://github.com/yasenstar/ArchiMetal_Practice/blob/main/ArchiMetal_Transformation_Challenges/ArchiMetal_01-Business-Units.archimate"/>
+<node TEXT="Figure 02: Value Stream of ArchiMetal" ID="ID_436555127" CREATED="1684495931626" MODIFIED="1684509440092" LINK="https://raw.githubusercontent.com/yasenstar/ArchiMetal_Practice/main/ArchiMetal_Transformation_Challenges/ArchiMetal_02-Value-Stream.archimate"/>
 <node TEXT="Figure 03: Production and Logistics of ArchiMetal" ID="ID_1809969619" CREATED="1684495953139" MODIFIED="1684495964747"/>
 <node TEXT="Figure 04: Steel Production" ID="ID_255245798" CREATED="1684495969386" MODIFIED="1684495977213"/>
 <node TEXT="Figure 05: Hot Strip Mill in More Detail" ID="ID_1939758981" CREATED="1684495981698" MODIFIED="1684495991787"/>
