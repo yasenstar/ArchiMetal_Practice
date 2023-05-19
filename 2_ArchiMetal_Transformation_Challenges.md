@@ -23,3 +23,9 @@
 - ![Figure 03](ArchiMetal_Transformation_Challenges/Figure03_Production-and-Logistics-Process.jpg)
 
 ---
+
+## Manufacturing Processes - Detail - Steel Production
+
+- [Figure 04 Snapshot Model](./ArchiMetal_Transformation_Challenges/ArchiMetal_04-Steel-Production.archimate)
+- [Figure 04 Modeling Video](https://youtu.be/VrG42VLI374)
+- ![Figure 04](ArchiMetal_Transformation_Challenges/Figure04_Steel-Production.jpg)
