@@ -4,10 +4,11 @@
 
 [![Archi_Logl](./img/Archi_Logo.png)](https://www.archimatetool.com/download/)
 
-Here is the structure of the case study:
+Here is the structure of the case study (You can explore every view from here: [tree](./ArchiMetal-Views-Structure.html)):
 
 ![file structure](img/ArchiMetal-Views-Structure.jpg)
 
 Note: it's using opensource FreePlane to make above mindmap, which can be [downloaded here](https://sourceforge.net/projects/freeplane/).
 
-You can explore every view from here: [tree](./ArchiMetal-Views-Structure.html)
+---
+Any questions, welcome to mail to [Xiaoqi Zhao](mailto:xiaoqizhao@outlook.com)
