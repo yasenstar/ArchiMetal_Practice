@@ -50,7 +50,7 @@
           <feature name="labelExpression" value="$view{name}"/>
         </child>
         <child xsi:type="archimate:Note" id="id-08673930d49a4e63bbef3a53ed850dad" textAlignment="1" borderType="2">
-          <bounds x="588" y="516" width="215" height="42"/>
+          <bounds x="540" y="516" width="215" height="42"/>
           <feature name="labelExpression" value="Last Update at: $view{property:Last Update}&#xD;&#xA;Last Updateby: $view{property:Last Updated by}"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-54d84c0ea4874c02ba1f5f1753e16470" archimateElement="id-70e443457ba447cf9f7be64c0a2e0ad1">

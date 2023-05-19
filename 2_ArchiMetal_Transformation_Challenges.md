@@ -8,3 +8,11 @@
 
 ---
 
+## Value Stream View
+
+- [Figure 02 Snapshot Model](./ArchiMetal_Transformation_Challenges/ArchiMetal_02-Value-Stream.archimate)
+- [Figure 02 Modeling Video](https://youtu.be/gYcE10uV1zU)
+- ![Figure 02](ArchiMetal_Transformation_Challenges/Figure02_Value-Stream.jpg)
+
+---
+
