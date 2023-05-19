@@ -4,7 +4,7 @@
 
 [![Archi_Logl](./img/Archi_Logo.png)](https://www.archimatetool.com/download/)
 
-Here is the structure of the case study (You can explore every view from here: [tree](./ArchiMetal-Views-Structure.html)):
+Here is the structure of the case study (You can explore every view from here: [tree](./ArchiMetal-Views-Structure.html), view in [GitPage URL](https://yasenstar.github.io/ArchiMetal_Practice/)):
 
 ![file structure](img/ArchiMetal-Views-Structure.jpg)
 
