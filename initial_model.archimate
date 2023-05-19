@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="ArchiMetal" id="id-e42df43bd2104e9aa7ccc8fd25a80ac6" version="5.0.0">
+  <folder name="Strategy" id="id-1b0b782829864a78b12e41cba8ca8efe" type="strategy"/>
+  <folder name="Business" id="id-8cd2dec9c65045d38ccaf022cbf50788" type="business"/>
+  <folder name="Application" id="id-e0f7a115d08d43abb0766524e63ee421" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-5ca56564155d43b9be291f65d929554e" type="technology"/>
+  <folder name="Motivation" id="id-98da403a45e4481ab1e98c2155b2506d" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-efe628046f504be7bb52ab89ffb2f31a" type="implementation_migration"/>
+  <folder name="Other" id="id-a08b82e73d8c468883d11f616e8aaa65" type="other"/>
+  <folder name="Relations" id="id-a018dbf9d098425e8c07120bb6ffbb05" type="relations"/>
+  <folder name="Views" id="id-2c69390ec6ac465785f8fb0b31272cee" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-8ad6c4933f22487281a2e3a873c32dee">
+      <child xsi:type="archimate:Note" id="id-c1cfb014a27c423d98a0c7127a60c480" font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
+        <bounds x="204" y="24" width="466" height="44"/>
+        <feature name="labelExpression" value="$view{name}"/>
+      </child>
+      <child xsi:type="archimate:Note" id="id-a80601ad36b44c0d8ff64f668496834e" textAlignment="1" borderType="2">
+        <bounds x="624" y="324" width="215" height="42"/>
+        <feature name="labelExpression" value="Last Update at: $view{property:Last Update}&#xD;&#xA;Last Updateby: $view{property:Last Updated by}"/>
+      </child>
+      <property key="Last Update" value="2023-05-19"/>
+      <property key="Last Updated by" value="Xiaoqi Zhao"/>
+    </element>
+  </folder>
+</archimate:model>
