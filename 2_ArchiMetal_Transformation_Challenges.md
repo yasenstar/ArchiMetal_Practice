@@ -16,3 +16,10 @@
 
 ---
 
+## Manufacturing Processes - Production and Logistics
+
+- [Figure 03 Snapshot Model](./ArchiMetal_Transformation_Challenges/ArchiMetal_03-Production-and-Logistics-Process.archimate)
+- [Figure 03 Modeling Video](https://youtu.be/7dm9UJnn_wk)
+- ![Figure 03](ArchiMetal_Transformation_Challenges/Figure03_Production-and-Logistics-Process.jpg)
+
+---
