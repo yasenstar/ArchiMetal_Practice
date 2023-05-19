@@ -58,3 +58,8 @@
 
 ## Transformation Challenges phase - Modeling Pattern Summary
 
+- [Transformation Challenges Pattern Model](./ArchiMetal_Transformation_Challenges/ArchiMetal_Pattern_Transformation-Challenges.archimate)
+- [Transformation Challenges Pattern Modeling Video](https://youtu.be/6KRBRMVckYo)
+- ![Transformation Challenges Pattern](ArchiMetal_Transformation_Challenges/Pattern_Transformation-Challenges.jpg)
+
+===2023/05/19===
