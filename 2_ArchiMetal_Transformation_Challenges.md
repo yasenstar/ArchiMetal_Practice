@@ -29,3 +29,13 @@
 - [Figure 04 Snapshot Model](./ArchiMetal_Transformation_Challenges/ArchiMetal_04-Steel-Production.archimate)
 - [Figure 04 Modeling Video](https://youtu.be/VrG42VLI374)
 - ![Figure 04](ArchiMetal_Transformation_Challenges/Figure04_Steel-Production.jpg)
+
+---
+
+## Manufacturing Processes - Hot Strip Mill in More Detail
+
+- [Figure 05 Snapshot Model](./ArchiMetal_Transformation_Challenges/ArchiMetal_05-Hot-Strip-Mill.archimate)
+- [Figure 05 Modeling Video](https://youtu.be/ItmQSrDfCIA)
+- -![Figure 05](/ArchiMetal_Transformation_Challenges/Figure05_Hot-Strip-Mill.jpg)
+
+---
