@@ -47,3 +47,14 @@
 - ![Figure 06](ArchiMetal_Transformation_Challenges/Figure06_Overall-Challenges.jpg)
 
 ---
+
+## Problem Analysis - More Challenges (complete view)
+
+- [Figure 07 Snapshot Model](./ArchiMetal_Transformation_Challenges/ArchiMetal_07-More-Challenges.archimate)
+- [Figure 07 Modeling Video](https://youtu.be/-k_CBKNqND8)
+- ![Figure 07](ArchiMetal_Transformation_Challenges/Figure07_More-Challenges.jpg)
+
+---
+
+## Transformation Challenges phase - Modeling Pattern Summary
+
