@@ -22,6 +22,8 @@
 - [Figure 03 Modeling Video](https://youtu.be/7dm9UJnn_wk)
 - ![Figure 03](ArchiMetal_Transformation_Challenges/Figure03_Production-and-Logistics-Process.jpg)
 
+Note: use parent Technology Process instead of Grouping in the view.
+
 ---
 
 ## Manufacturing Processes - Detail - Steel Production
@@ -53,6 +55,8 @@
 - [Figure 07 Snapshot Model](./ArchiMetal_Transformation_Challenges/ArchiMetal_07-More-Challenges.archimate)
 - [Figure 07 Modeling Video](https://youtu.be/-k_CBKNqND8)
 - ![Figure 07](ArchiMetal_Transformation_Challenges/Figure07_More-Challenges.jpg)
+
+Note: Keep "Busienss Performance" branch to make this as one complete Challenge view.
 
 ---
 
