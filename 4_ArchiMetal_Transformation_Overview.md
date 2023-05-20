@@ -19,8 +19,17 @@
 ## Information Flows between the Units
 
 - [Figure 11 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-11_Information-Flows.archimate)
-- [Figure 11 Modeling Videl](https://youtu.be/amJK4SXH434)
+- [Figure 11 Modeling Video](https://youtu.be/amJK4SXH434)
 - ![Figure 11](ArchiMetal_Transformation_Overview/Figure11_Information-Flows-between-the-Units.jpg)
 
 ---
 
+## Baseline Application Landscape
+
+- [Figure 12 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-12_Baseline-Applicaiton-Landscape.archimate)
+- [Figure 12 Modeling Video](https://youtu.be/VjufCn9gv3M)
+- ![Figure 12](ArchiMetal_Transformation_Overview/Figure12_Basline-Application-Landscape.jpg)
+
+---
+
+## 
