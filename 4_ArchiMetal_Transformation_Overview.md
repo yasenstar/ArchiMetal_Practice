@@ -16,3 +16,11 @@
 
 ---
 
+## Information Flows between the Units
+
+- [Figure 11 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-11_Information-Flows.archimate)
+- [Figure 11 Modeling Videl](https://youtu.be/amJK4SXH434)
+- ![Figure 11](ArchiMetal_Transformation_Overview/Figure11_Information-Flows-between-the-Units.jpg)
+
+---
+
