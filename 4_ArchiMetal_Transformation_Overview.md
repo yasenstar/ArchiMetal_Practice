@@ -32,4 +32,10 @@
 
 ---
 
-## 
+## ArchiMetal Corporate Data Center Infrastructure
+
+- [Figure 13 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-13_Corporate-DC-Infra.archimate)
+- [Figure 13 Modeling Video](https://youtu.be/SbWkqM4q7lA)
+- ![Figure 13](./ArchiMetal_Transformation_Overview/Figure13_Corp-Data-Center-Infrastructure.jpg)
+
+---
