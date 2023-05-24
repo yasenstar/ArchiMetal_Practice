@@ -3,7 +3,7 @@
 <node TEXT="ArchiMetal" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1684495713469" VGAP_QUANTITY="3 pt">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <hook NAME="MapStyle" background="#fbf1c7">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_gruvbox_template.mm"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -76,51 +76,84 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="1. Introduction" POSITION="right" ID="ID_504371281" CREATED="1684495764094" MODIFIED="1684495794814"/>
-<node TEXT="2. ArchiMetal Transformation Challenges (7 views)" POSITION="right" ID="ID_1913450260" CREATED="1684495774629" MODIFIED="1684497179993">
-<node TEXT="Figure 01: ArchiMetal Business Units" ID="ID_981986382" CREATED="1684495909402" MODIFIED="1684509413133" LINK="https://github.com/yasenstar/ArchiMetal_Practice/blob/main/ArchiMetal_Transformation_Challenges/ArchiMetal_01-Business-Units.archimate"/>
-<node TEXT="Figure 02: Value Stream of ArchiMetal" ID="ID_436555127" CREATED="1684495931626" MODIFIED="1684509440092" LINK="https://raw.githubusercontent.com/yasenstar/ArchiMetal_Practice/main/ArchiMetal_Transformation_Challenges/ArchiMetal_02-Value-Stream.archimate"/>
+<node TEXT="1. ArchiMetal Transformation Challenges (7 views)" POSITION="right" ID="ID_1913450260" CREATED="1684495774629" MODIFIED="1684896422370">
+<node TEXT="Organizational Structure" ID="ID_529508975" CREATED="1684896378341" MODIFIED="1684896382863">
+<node TEXT="Figure 01: ArchiMetal Business Units" ID="ID_981986382" CREATED="1684495909402" MODIFIED="1684896358676"/>
+</node>
+<node TEXT="Value Stream" ID="ID_1120800536" CREATED="1684896391365" MODIFIED="1684896394879">
+<node TEXT="Figure 02: Value Stream of ArchiMetal" ID="ID_436555127" CREATED="1684495931626" MODIFIED="1684896363173"/>
+</node>
+<node TEXT="Manufacturing Processes" ID="ID_1712451254" CREATED="1684896401781" MODIFIED="1684896407344">
 <node TEXT="Figure 03: Production and Logistics of ArchiMetal" ID="ID_1809969619" CREATED="1684495953139" MODIFIED="1684495964747"/>
 <node TEXT="Figure 04: Steel Production" ID="ID_255245798" CREATED="1684495969386" MODIFIED="1684495977213"/>
 <node TEXT="Figure 05: Hot Strip Mill in More Detail" ID="ID_1939758981" CREATED="1684495981698" MODIFIED="1684495991787"/>
+</node>
+<node TEXT="Problem Analysis" ID="ID_1041207736" CREATED="1684896471828" MODIFIED="1684896479397">
 <node TEXT="Figure 06: ArchiMate Motivation View Describing the Overall Challenges Facing ArchiMetal" ID="ID_1231707002" CREATED="1684495999811" MODIFIED="1684496025348"/>
 <node TEXT="Figure 07: ArchiMate Motivation View Describing the Customer Satisfaction and Service Quality Challenges Facing ArchiMetal" ID="ID_1978665699" CREATED="1684496032753" MODIFIED="1684496061741"/>
 </node>
-<node TEXT="3. ArchiMetal&apos;s CRM Vision (1 view)" POSITION="right" ID="ID_869228877" CREATED="1684495795717" MODIFIED="1684497167678">
+</node>
+<node TEXT="2. ArchiMetal&apos;s CRM Vision (1 view)" POSITION="right" ID="ID_869228877" CREATED="1684495795717" MODIFIED="1684896426062">
 <node TEXT="Figure 08: ArchiMetal&apos;s CRM Vision" ID="ID_1687302338" CREATED="1684496070937" MODIFIED="1684496083612"/>
 </node>
-<node TEXT="4. ArchiMetal Transformation Overview (12 views)" POSITION="right" ID="ID_1160554472" CREATED="1684495802907" MODIFIED="1684497160681">
+<node TEXT="3. ArchiMetal Transformation Overview (12 views)" POSITION="right" ID="ID_1160554472" CREATED="1684495802907" MODIFIED="1684896431566">
+<node TEXT="Baseline Enterprise Architecture" ID="ID_286851100" CREATED="1684895911054" MODIFIED="1684895928039">
+<node TEXT="Baseline Business Architecture" ID="ID_1683337571" CREATED="1684896036936" MODIFIED="1684896060675">
 <node TEXT="Figure 09: Customer Services Provided by DC Benelux" ID="ID_448668011" CREATED="1684496093994" MODIFIED="1684496113615"/>
 <node TEXT="Figure 10: Inter-Dependencies between the Key Sales Processes in DC Benelux, PC, and HQ" ID="ID_1283094661" CREATED="1684496119697" MODIFIED="1684496140619"/>
 <node TEXT="Figure 11: Most Important Information Flows between the Units" ID="ID_1472376792" CREATED="1684496146747" MODIFIED="1684496162571"/>
+</node>
+<node TEXT="Baseline Application Architecture" ID="ID_596264804" CREATED="1684896061815" MODIFIED="1684896067482">
 <node TEXT="Figure 12: Application Landscape of ArchiMetal" ID="ID_1111695950" CREATED="1684496166587" MODIFIED="1684496179626"/>
+</node>
+<node TEXT="Baseline Technology" ID="ID_1041943229" CREATED="1684896079167" MODIFIED="1684896085091">
 <node TEXT="Figure 13: Key Aspects of the ArchiMetal Corporate Data Center Infrastructure" ID="ID_657880318" CREATED="1684496184385" MODIFIED="1684496199794"/>
+</node>
+</node>
+<node TEXT="Target Enterprise Architecture" ID="ID_364494561" CREATED="1684895965187" MODIFIED="1684895975874">
+<node TEXT="Target Business Architecture" ID="ID_1182611062" CREATED="1684895993010" MODIFIED="1684896000011">
 <node TEXT="Figure 14: Changes to ArchiMetal Organization Structure, including New Department: Customer Service" ID="ID_1927986515" CREATED="1684496344217" MODIFIED="1684496367229"/>
 <node TEXT="Figure 15: Relevant Information Flows between Business Units" ID="ID_1852554709" CREATED="1684496373385" MODIFIED="1684496385451"/>
 <node TEXT="Figure 16: Overview of the Key Changes in the Overall Enterprise Architecture of ArchiMetal" ID="ID_183065244" CREATED="1684496390361" MODIFIED="1684496440588"/>
 <node TEXT="Figure 17: New Customer Service Enables Real-Time Monitoring of Customer Orders" ID="ID_39430074" CREATED="1684496450778" MODIFIED="1684496475185"/>
 <node TEXT="Figure 18: New Processes and their Inter-Dependencies with Existing Processes" ID="ID_740527289" CREATED="1684496480713" MODIFIED="1684496495755"/>
+</node>
+<node TEXT="Target Application Architecture" ID="ID_669484028" CREATED="1684896116759" MODIFIED="1684896123744">
 <node TEXT="Figure 19: New Application Landscape with the CRM System Sharing Centralized Customer Data through an EAI Bus" ID="ID_1280815311" CREATED="1684496500602" MODIFIED="1684496732193"/>
+</node>
+<node TEXT="Target Infrastructure" ID="ID_634056357" CREATED="1684896132703" MODIFIED="1684896140754">
+<node TEXT="Similar to Figure 13" ID="ID_1301939895" CREATED="1684896146694" MODIFIED="1684896156177"/>
+</node>
+</node>
+<node TEXT="Implementation and Migration" ID="ID_240132635" CREATED="1684896167950" MODIFIED="1684896173458">
 <node TEXT="Figure 20: Implementation and Migration View for ArchiMetal CRM Transformation Program" ID="ID_1649406198" CREATED="1684496737245" MODIFIED="1684496756518"/>
 </node>
-<node TEXT="5. Detailed Target Enterprise Architecture (7 views)" POSITION="right" ID="ID_1061483686" CREATED="1684495816667" MODIFIED="1684497146745">
+</node>
+<node TEXT="4. Detailed Target Enterprise Architecture (7 views)" POSITION="right" ID="ID_1061483686" CREATED="1684495816667" MODIFIED="1684896434911">
+<node TEXT="Business Processes and Application Usage" ID="ID_1278806939" CREATED="1684896188462" MODIFIED="1684896196105">
+<node TEXT="Develop Contract" ID="ID_1370803366" CREATED="1684896200824" MODIFIED="1684896205840">
 <node TEXT="Figure 21: Registration of a New Customer" ID="ID_1381879217" CREATED="1684496763701" MODIFIED="1684496773253"/>
 <node TEXT="Figure 22: Support for the Develop Contract Process" ID="ID_1291952068" CREATED="1684496779006" MODIFIED="1684496790629"/>
 <node TEXT="Figure 23: Registration of Customer Order" ID="ID_490864123" CREATED="1684496802675" MODIFIED="1684496879592"/>
+</node>
+<node TEXT="Register Order" ID="ID_1694890494" CREATED="1684896223902" MODIFIED="1684896227840">
 <node TEXT="Figure 24: Application Usage by Register Order Process" ID="ID_1817621283" CREATED="1684496884246" MODIFIED="1684496895088"/>
+</node>
+<node TEXT="Track Customer Order" ID="ID_119065956" CREATED="1684896236855" MODIFIED="1684896242944">
 <node TEXT="Figure 25: Track Customer Order Process" ID="ID_162035459" CREATED="1684496901047" MODIFIED="1684496910863"/>
+</node>
+<node TEXT="Process Customer Order" ID="ID_403160544" CREATED="1684896252318" MODIFIED="1684896256544">
 <node TEXT="Figure 26: Process Customer Order Process" ID="ID_890983830" CREATED="1684496924296" MODIFIED="1684496938936"/>
 <node TEXT="Figure 27: Applications Usage by the Process Customer Order Process" ID="ID_356952084" CREATED="1684496941590" MODIFIED="1684496958593"/>
 </node>
-<node TEXT="6. Target State Scenario: Processing an Urgent Customer Order (5 views)" POSITION="right" ID="ID_1108094041" CREATED="1684495827611" MODIFIED="1684497134488">
+</node>
+</node>
+<node TEXT="5. Target State Scenario: Processing an Urgent Customer Order (5 views)" POSITION="right" ID="ID_1108094041" CREATED="1684495827611" MODIFIED="1684896438543">
 <node TEXT="Figure 28: Stakeholder View" ID="ID_1142834641" CREATED="1684496968894" MODIFIED="1684496975470"/>
 <node TEXT="Figure 29: Business Process Cooperation - Converting an Order to a Contract" ID="ID_1938810767" CREATED="1684497026790" MODIFIED="1684497045329"/>
 <node TEXT="Figure 30: Business Process Cooperation - Fulfillment of an Order at ArchiMetal" ID="ID_1838006880" CREATED="1684497052638" MODIFIED="1684497090159"/>
 <node TEXT="Figure 31: Business Process View" ID="ID_1002573362" CREATED="1684497094773" MODIFIED="1684497104048"/>
 <node TEXT="Figure 32: Information Structure View" ID="ID_1166452118" CREATED="1684497108343" MODIFIED="1684497116512"/>
 </node>
-<node TEXT="7. Benefits of Enterprise Architecture with the ArchiMate Language" POSITION="right" ID="ID_1870242932" CREATED="1684495841874" MODIFIED="1684495855645"/>
-<node TEXT="8. Conclusion" POSITION="right" ID="ID_1463392204" CREATED="1684495857466" MODIFIED="1684495861549"/>
-<node TEXT="9. Opportunities for Further Work" POSITION="right" ID="ID_1852173085" CREATED="1684495861730" MODIFIED="1684495869956"/>
 </node>
 </map>
