@@ -39,3 +39,12 @@
 - ![Figure 13](./ArchiMetal_Transformation_Overview/Figure13_Corp-Data-Center-Infrastructure.jpg)
 
 ---
+
+## Changes on ArchiMetal Organization Structure - Customer Service added
+
+- [Figure 14 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-14_Changes-to-ArchiMate-Org-Structure.archimate)
+- [Figure 14 Modeling Video](https://youtu.be/JDL_zgPNmTk)
+- ![Figure 14](./ArchiMetal_Transformation_Overview/Figure14_Changes-to-ArchiMetal-Org.jpg)
+
+---
+
