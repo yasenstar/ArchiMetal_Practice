@@ -48,3 +48,11 @@
 
 ---
 
+## Changes on ArchiMetal Organization Structure - Customer Service added
+
+- [Figure 15 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-15_Relevant-Info-Flows.archimate)
+- [Figure 15 Modeling Video](https://youtu.be/ixwLawPIqD0)
+- ![Figure 15](./ArchiMetal_Transformation_Overview/Figure15_Relevant_Information-Flows-between-the-Units.jpg)
+
+---
+
