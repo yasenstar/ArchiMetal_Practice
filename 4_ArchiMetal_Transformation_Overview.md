@@ -56,3 +56,11 @@
 
 ---
 
+## Changes on Overall Enterprise Architecture in ArchiMetal
+
+- [Figure 16 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-16_Changes-in-Overall-EA.archimate)
+- [Figure 16 Modeling Video](https://youtu.be/CLOqEUbsqio)
+- ![Figure 16](./ArchiMetal_Transformation_Overview/Figure16_Overall-Changes-in-EA.jpg)
+
+---
+
