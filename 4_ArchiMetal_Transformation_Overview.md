@@ -39,7 +39,6 @@
 - ![Figure 13](./ArchiMetal_Transformation_Overview/Figure13_Corp-Data-Center-Infrastructure.jpg)
 
 ---
-
 ## Changes on ArchiMetal Organization Structure - Customer Service added
 
 - [Figure 14 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-14_Changes-to-ArchiMate-Org-Structure.archimate)
@@ -47,7 +46,6 @@
 - ![Figure 14](./ArchiMetal_Transformation_Overview/Figure14_Changes-to-ArchiMetal-Org.jpg)
 
 ---
-
 ## Changes on ArchiMetal Organization Structure - Customer Service added
 
 - [Figure 15 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-15_Relevant-Info-Flows.archimate)
@@ -55,12 +53,18 @@
 - ![Figure 15](./ArchiMetal_Transformation_Overview/Figure15_Relevant_Information-Flows-between-the-Units.jpg)
 
 ---
-
 ## Changes on Overall Enterprise Architecture in ArchiMetal
 
 - [Figure 16 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-16_Changes-in-Overall-EA.archimate)
 - [Figure 16 Modeling Video](https://youtu.be/CLOqEUbsqio)
 - ![Figure 16](./ArchiMetal_Transformation_Overview/Figure16_Overall-Changes-in-EA.jpg)
+
+---
+## Changes on Overall Enterprise Architecture in ArchiMetal
+
+- [Figure 17 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-17_New-Customer-Service.archimate)
+- [Figure 17 Modeling Video](https://youtu.be/eAYX94QEgXE)
+- ![Figure 17](./ArchiMetal_Transformation_Overview/Figure17_New%20Customer%20Service%20Enabling%20to%20Customer%20Orders.jpg)
 
 ---
 
