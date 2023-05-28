@@ -91,8 +91,8 @@
 
 ### Implementation and Migration View for ArchiMetal CRM Transformation Program
 
-- [Figure 20 Snapshot Model]()
-- [Figure 20 Modeling Video]()
-- ![Figure 20]()
+- [Figure 20 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-20_Implementation-and-Migration.archimate)
+- [Figure 20 Modeling Video](https://youtu.be/Gp-kTnkAH30)
+- ![Figure 20](./ArchiMetal_Transformation_Overview/Figure20_Implementation-and-Migration.jpg)
 
 ---
