@@ -67,11 +67,18 @@
 - ![Figure 17](./ArchiMetal_Transformation_Overview/Figure17_New%20Customer%20Service%20Enabling%20to%20Customer%20Orders.jpg)
 
 ---
-
 ## New Processes and their Inter-Dependencies with Existing Processes
 
 - [Figure 18 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-18_New-and-Existing-Processes.archimate)
 - [Figure 18 Modeling Video](https://youtu.be/Uazu6NNXQ70)
 - ![Figure 18](./ArchiMetal_Transformation_Overview/Figure18_New%20Processes%20and%20Inter-Dependencies%20with%20Existing%20Processes.jpg)
+
+---
+
+## New Application Landscape
+
+- [Figure 19 Snapshot Model](./ArchiMetal_Transformation_Overview/ArchiMate-19_New-Application-Landscape.archimate)
+- [Figure 19 Modeling Video](https://youtu.be/-_ugYB86kyM)
+- ![Figure 19](./ArchiMetal_Transformation_Overview/Figure19_New-Application-Landscape.jpg)
 
 ---
