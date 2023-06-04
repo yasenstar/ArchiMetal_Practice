@@ -5,7 +5,7 @@
 [![Archi_Logo](./img/Archi_Logo.png)](https://www.archimatetool.com/download/)
 
 - [Video for Initializing Archi Model](https://youtu.be/8zRQ65DApk8)
-- [Initial Archi Model](./initial_model.archimate)
+- [Initial Archi Model](Model_Files/initial_model.archimate)
 
 Here is the structure of the case study (You can explore every view from here: [tree](./ArchiMetal-Views-Structure.html), view in [GitPage URL](https://yasenstar.github.io/ArchiMetal_Practice/)):
 
