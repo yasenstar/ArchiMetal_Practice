@@ -26,6 +26,10 @@
 
 ## Application Usage by Register Order Process
 
+- [Figure 24 Model File](./Detail_Enterprise_Architecture/ArchiMate-24_Support-for-Registration-Customer-Order.archimate)
+- [Figure 24 Modeling Video](https://youtu.be/lOyZ4CHibos)
+- ![Figure 24 Image](./Detail_Enterprise_Architecture/Figure24_Support%20for%20Registration%20of%20Customer%20Order.jpg)
+
 ---
 
 ## Track Customer Order Process
