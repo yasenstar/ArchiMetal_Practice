@@ -10,6 +10,10 @@
 
 ## Support for the Develop Contract Process
 
+- [Figure 22 Model File](./Detail_Enterprise_Architecture/ArchiMate-22_Support-for-Develop-Contract-Process.archimate)
+- [Figure 22 Modeling Video](https://youtu.be/GQ_SN2J2I_o)
+- ![Figure 22 Image](./Detail_Enterprise_Architecture/Figure22_Support-for-Develop-Contract-Process.jpg)
+
 ---
 
 ## Registration of Customer Order

@@ -2613,7 +2613,7 @@
           <bounds x="830" y="496" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-814b6489718d4406a65d8027d195316a" source="id-bb8ea39112e146269a43b911c4df302f" target="id-32f47c3b3ba24deb8bd8fe4ebbc1f43f" archimateRelationship="id-71ae997cd5d14ebb8e8f99cb8e23df0d"/>
         </child>
-        <property key="Last Update" value="2023-05-19"/>
+        <property key="Last Update" value="2023/6/4"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
       </element>
     </folder>
