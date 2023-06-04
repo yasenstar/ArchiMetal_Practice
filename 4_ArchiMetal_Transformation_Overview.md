@@ -101,4 +101,4 @@
 
 - [Model file for Transformation Overview Modeling Pattern](./ArchiMetal-Practice-Patterns.archimate)
 - [Modeling Pattern Video for Transformation Overview](https://youtu.be/oCS957tVKHE)
-- ![Figure 20](./ArchiMetal_Transformation_Overview/Figure20_Implementation-and-Migration.jpg)
+- ![Modeling Patter - Trans Overview](./ArchiMetal_Transformation_Overview/Pattern_ArchiMetal_Transformation-Overview.jpg)
