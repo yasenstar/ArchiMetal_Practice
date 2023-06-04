@@ -18,6 +18,10 @@
 
 ## Registration of Customer Order
 
+- [Figure 23 Model File](Detail_Enterprise_Architecture/ArchiMate-23_Registration-Customer-Order.archimate)
+- [Figure 23 Modeling Video](https://youtu.be/Wwc4rC0jBUU)
+- ![Figure 23 Image](./Detail_Enterprise_Architecture/Figure23_Registration%20of%20Customer%20Order.jpg)
+
 ---
 
 ## Application Usage by Register Order Process
