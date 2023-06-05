@@ -34,6 +34,10 @@
 
 ## Track Customer Order Process
 
+- [Figure 25 Model File](./Detail_Enterprise_Architecture/ArchiMate-25_Track-Customer-Order-Process.archimate)
+- [Figure 25 Modeling Video](https://youtu.be/vvJbZdwhqhk)
+- ![Figure 25 Image](./Detail_Enterprise_Architecture/Figure25_Track%20Customer%20Order%20Process.jpg)
+
 ---
 
 ## Process Customer Order Process
