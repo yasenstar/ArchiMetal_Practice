@@ -50,4 +50,9 @@
 
 ## Applications Usage by the Process Customer Order Process
 
+- [Figure 27 Model File](./Detail_Enterprise_Architecture/ArchiMate-27_Support-for-Process-Customer-Order-Process.archimate)
+- [Figure 27 Modeling Video](https://youtu.be/gUW_Ehbk45c)
+- ![Figure 27 Image](./Detail_Enterprise_Architecture/Figure27_Support%20for%20Process%20Customer%20Order%20Process%20(copy).jpg)
+
+
 ---
