@@ -42,6 +42,10 @@
 
 ## Process Customer Order Process
 
+- [Figure 26 Model File](./Detail_Enterprise_Architecture/ArchiMate-26_Process-Customer-Order-Process.archimate)
+- [Figure 26 Modeling Video](https://youtu.be/DyoYhiveA_M)
+- ![Figure 26 Image](./Detail_Enterprise_Architecture/Figure26_Process%20Customer%20Order%20Process.jpg)
+
 ---
 
 ## Applications Usage by the Process Customer Order Process

@@ -95,6 +95,13 @@
         <element xsi:type="archimate:BusinessObject" name="Order Data" id="id-d527ba03811741ebb7569d1b04442a25"/>
         <element xsi:type="archimate:BusinessObject" name="Shipping Order Data" id="id-5f42eca753994b2eb284dd75b26a7cb2"/>
       </folder>
+      <folder name="Process Customer Order" id="id-922a5accf3514407a1c2891b2f7add78">
+        <element xsi:type="archimate:BusinessObject" name="Inventory Data" id="id-17b8b5467ec44bb3be416b7d71bd2a07"/>
+        <element xsi:type="archimate:BusinessObject" name="Production Order Data" id="id-86819b7c2aef41b2b13dc893c50ea3ec"/>
+        <element xsi:type="archimate:BusinessObject" name="Customer Order Data" id="id-b1b2c63ef02c42eb88310f21fe662e87"/>
+        <element xsi:type="archimate:BusinessObject" name="Distribution Data" id="id-201410bdce59449d817eda936fc5ef57"/>
+        <element xsi:type="archimate:BusinessObject" name="Shipping Order Data" id="id-8d9a138abbbd49248dda77330d209ac2"/>
+      </folder>
       <element xsi:type="archimate:BusinessObject" name="Sales Pipeline" id="id-c8586b2db2314b17852d6e100b1c633f"/>
       <element xsi:type="archimate:BusinessObject" name="Customer Information" id="id-b184c5661a354a80a26061333635c927"/>
       <element xsi:type="archimate:BusinessObject" name="Pricing Policy" id="id-2b87582d36d143db98c8e258b24655f1"/>
@@ -117,6 +124,12 @@
         <element xsi:type="archimate:BusinessProcess" name="Prepare Notification Message" id="id-f7bd6d6664424100b329cb8b0ed40510"/>
         <element xsi:type="archimate:BusinessProcess" name="Send Notification to Customer" id="id-a9bbb7a79a9b4d568f6f66917f0b40d1"/>
       </folder>
+      <folder name="Process Customer Order" id="id-ec5201667e114aa3b1bc85a8835e5cff">
+        <element xsi:type="archimate:BusinessProcess" name="Check Availability" id="id-458d93fe1e2f4c51a43bae8e26b96aa4"/>
+        <element xsi:type="archimate:BusinessProcess" name="Create Production Order" id="id-cef7496ae5d84bfa8b4de2882dbbb248"/>
+        <element xsi:type="archimate:BusinessProcess" name="Create Shipping Order" id="id-26bb007b0934471f9c05d188e9589372"/>
+        <element xsi:type="archimate:BusinessProcess" name="Update Customer Order" id="id-c4d0ce61237a4b03a3f27f9d1b009e55"/>
+      </folder>
       <element xsi:type="archimate:BusinessProcess" name="Develop Contract" id="id-56a4ef970d314200bc4e95d8ea928093"/>
       <element xsi:type="archimate:BusinessProcess" name="Register Order" id="id-eb6681ab4dd94ce3996ade5875bdf3ef"/>
       <element xsi:type="archimate:BusinessProcess" name="Inform Customer on Order" id="id-b7900be563de46529b9fc8d1975b2b37"/>
@@ -127,12 +140,15 @@
       <element xsi:type="archimate:BusinessProcess" name="Process Customer Order" id="id-322294a1d3b441b2a55c57b8dca6e7ff"/>
       <element xsi:type="archimate:BusinessProcess" name="Track Customer Order" id="id-590b2196df43475cb4e2cd018686ea66"/>
     </folder>
+    <folder name="Business Event" id="id-55c55b5bc3534bf98088f56e9a36af58">
+      <element xsi:type="archimate:BusinessEvent" name="Customer Order" id="id-c578fa3dcee04225a0144fa71920eeb6"/>
+      <element xsi:type="archimate:BusinessEvent" name="Customer Order Registered" id="id-8fa16f9c69894e46ba236ae0230911bc"/>
+      <element xsi:type="archimate:BusinessEvent" name="Customer Order Update" id="id-6191979d2f304476ab02f638d4ece684"/>
+      <element xsi:type="archimate:BusinessEvent" name="Inquiry" id="id-bbd25ba605ba4eafaa1ab945552f0449"/>
+    </folder>
     <element xsi:type="archimate:Product" name="Steel Product" id="id-9d3639bc0b2c46deafc67db505ca796b"/>
     <element xsi:type="archimate:Contract" name="Steel Contract" id="id-10b667b736514a2da297f4dea0a14645"/>
-    <element xsi:type="archimate:BusinessEvent" name="Inquiry" id="id-bbd25ba605ba4eafaa1ab945552f0449"/>
     <element xsi:type="archimate:Representation" name="Contract" id="id-51c3a5a5d0c343df91c73e182a373148"/>
-    <element xsi:type="archimate:BusinessEvent" name="Customer Order" id="id-c578fa3dcee04225a0144fa71920eeb6"/>
-    <element xsi:type="archimate:BusinessEvent" name="Customer Order Update" id="id-6191979d2f304476ab02f638d4ece684"/>
   </folder>
   <folder name="Application" id="id-e0f7a115d08d43abb0766524e63ee421" type="application">
     <folder name="Application Service" id="id-a621ba5e278e407ba1031479b97fa3f5">
@@ -668,6 +684,15 @@
     <element xsi:type="archimate:RealizationRelationship" id="id-4a8d31f88d574a9089e90deee7ff98c9" source="id-4c50a5c4b84a49128b53481ac94f3430" target="id-c521cb12763d4ab3993c3c45b66dc5d4"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-67d03a22a57c4b9ca3536f514a2511a0" source="id-4c50a5c4b84a49128b53481ac94f3430" target="id-b67b02752ebc4b929c9a9fc76211cff9"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-ee27f10dc39d47598d4911480a093e90" source="id-4c50a5c4b84a49128b53481ac94f3430" target="id-4e06ee45db904a88aa46e9dce611528e"/>
+    <element xsi:type="archimate:TriggeringRelationship" id="id-4d3664323e0548c5b2581f6f082dbc24" source="id-458d93fe1e2f4c51a43bae8e26b96aa4" target="id-cef7496ae5d84bfa8b4de2882dbbb248"/>
+    <element xsi:type="archimate:TriggeringRelationship" id="id-f0d55a3a939041ef8bcefb5254a0c77e" source="id-cef7496ae5d84bfa8b4de2882dbbb248" target="id-26bb007b0934471f9c05d188e9589372"/>
+    <element xsi:type="archimate:TriggeringRelationship" id="id-e72a2f5f97524207bd87ddc2d36996a5" source="id-26bb007b0934471f9c05d188e9589372" target="id-c4d0ce61237a4b03a3f27f9d1b009e55"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-1bb0d928e2764f88ae2a80a6b2373a31" source="id-322294a1d3b441b2a55c57b8dca6e7ff" target="id-458d93fe1e2f4c51a43bae8e26b96aa4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-418908fd95334c31ae1ee2304121ba62" source="id-322294a1d3b441b2a55c57b8dca6e7ff" target="id-cef7496ae5d84bfa8b4de2882dbbb248"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-343934eb45394fa7bc381bfefc4d056d" source="id-322294a1d3b441b2a55c57b8dca6e7ff" target="id-26bb007b0934471f9c05d188e9589372"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b3ac721f02534bf1b3ed9775aeac303e" source="id-322294a1d3b441b2a55c57b8dca6e7ff" target="id-c4d0ce61237a4b03a3f27f9d1b009e55"/>
+    <element xsi:type="archimate:TriggeringRelationship" id="id-937bbcf4bfaf45a498c651052fd04b47" source="id-8fa16f9c69894e46ba236ae0230911bc" target="id-322294a1d3b441b2a55c57b8dca6e7ff"/>
+    <element xsi:type="archimate:TriggeringRelationship" id="id-910409c3681c46ec8fcf2be89b91c5ca" source="id-c4d0ce61237a4b03a3f27f9d1b009e55" target="id-6191979d2f304476ab02f638d4ece684"/>
   </folder>
   <folder name="Views" id="id-2c69390ec6ac465785f8fb0b31272cee" type="diagrams">
     <folder name="1_Challenges" id="id-ab838648916e4f048c4372f536b77798">
@@ -2929,7 +2954,7 @@
           <feature name="labelExpression" value="$view{name}"/>
         </child>
         <child xsi:type="archimate:Note" id="id-90f462c30e234ba4a4906c66d8f9f9fe" textAlignment="1" borderType="2">
-          <bounds x="612" y="588" width="215" height="42"/>
+          <bounds x="120" y="461" width="215" height="42"/>
           <feature name="labelExpression" value="Last Update at: $view{property:Last Update}&#xD;&#xA;Last Updateby: $view{property:Last Updated by}"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6a39995b70c5449ab6d1217f81dd883b" targetConnections="id-7eebe320c394498e91ef29cadeb995be id-70fc347438e842639eb67ba0db7ce027 id-ddc9744a266d45d98716b294ca298be3" archimateElement="id-590b2196df43475cb4e2cd018686ea66">
@@ -2980,7 +3005,53 @@
         <child xsi:type="archimate:DiagramObject" id="id-0ce419acd1d54b39b84560521117d8e4" targetConnections="id-51b124d5f3d74494842b1f560ad82e41" archimateElement="id-4e06ee45db904a88aa46e9dce611528e">
           <bounds x="420" y="454" width="120" height="55"/>
         </child>
-        <property key="Last Update" value="2023-05-19"/>
+        <property key="Last Update" value="2023/6/4"/>
+        <property key="Last Updated by" value="Xiaoqi Zhao"/>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="Figure26_Process Customer Order Process" id="id-3a7130b63e8f40daad3e73435484ee95">
+        <child xsi:type="archimate:Note" id="id-ee77c2117691494e9b8b74cb514a7b5a" font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
+          <bounds x="204" y="12" width="466" height="37"/>
+          <feature name="labelExpression" value="$view{name}"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-419c2e69578b48139b82e28da9c76481" textAlignment="1" borderType="2">
+          <bounds x="72" y="588" width="215" height="42"/>
+          <feature name="labelExpression" value="Last Update at: $view{property:Last Update}&#xD;&#xA;Last Updateby: $view{property:Last Updated by}"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b599e444b30f424aa393f97b78ca550f" targetConnections="id-15eec2a30c724344975fd3319f33e76b id-a313038c363b46429d14085dbb1c538e" archimateElement="id-322294a1d3b441b2a55c57b8dca6e7ff">
+          <bounds x="108" y="133" width="601" height="96"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9d0e6b4fa11840cf9214e36bf208f5b7" source="id-b599e444b30f424aa393f97b78ca550f" target="id-70203bbe161c47d6958dc6b811fe95d3" archimateRelationship="id-1bb0d928e2764f88ae2a80a6b2373a31"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3cec9a4fd07c4678abcadbb9f42a0eb3" source="id-b599e444b30f424aa393f97b78ca550f" target="id-9825f464d0b74075bbcede0f4c313f0e" archimateRelationship="id-418908fd95334c31ae1ee2304121ba62"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-81fa1932c57043348a3679434255f5e0" source="id-b599e444b30f424aa393f97b78ca550f" target="id-5f9668741ec94185aca3c26f0c31ff20" archimateRelationship="id-343934eb45394fa7bc381bfefc4d056d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f08df1538a2d4945a07ba0194af985f7" source="id-b599e444b30f424aa393f97b78ca550f" target="id-3a2810558ed14ff3bc8e59adb8ae12aa" archimateRelationship="id-b3ac721f02534bf1b3ed9775aeac303e"/>
+          <child xsi:type="archimate:DiagramObject" id="id-70203bbe161c47d6958dc6b811fe95d3" targetConnections="id-9d0e6b4fa11840cf9214e36bf208f5b7" archimateElement="id-458d93fe1e2f4c51a43bae8e26b96aa4">
+            <bounds x="12" y="24" width="120" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-8e3d6da24cf4440fa124f968554d6eb3" source="id-70203bbe161c47d6958dc6b811fe95d3" target="id-9825f464d0b74075bbcede0f4c313f0e" archimateRelationship="id-4d3664323e0548c5b2581f6f082dbc24"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9825f464d0b74075bbcede0f4c313f0e" targetConnections="id-8e3d6da24cf4440fa124f968554d6eb3 id-3cec9a4fd07c4678abcadbb9f42a0eb3" archimateElement="id-cef7496ae5d84bfa8b4de2882dbbb248">
+            <bounds x="162" y="24" width="120" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-aa6f5607f833445b8dab32208b4a024f" source="id-9825f464d0b74075bbcede0f4c313f0e" target="id-5f9668741ec94185aca3c26f0c31ff20" archimateRelationship="id-f0d55a3a939041ef8bcefb5254a0c77e"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5f9668741ec94185aca3c26f0c31ff20" targetConnections="id-aa6f5607f833445b8dab32208b4a024f id-81fa1932c57043348a3679434255f5e0" archimateElement="id-26bb007b0934471f9c05d188e9589372">
+            <bounds x="312" y="24" width="120" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-2a5a29d78aa24c85b909b0683960c71b" source="id-5f9668741ec94185aca3c26f0c31ff20" target="id-3a2810558ed14ff3bc8e59adb8ae12aa" archimateRelationship="id-e72a2f5f97524207bd87ddc2d36996a5"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3a2810558ed14ff3bc8e59adb8ae12aa" targetConnections="id-2a5a29d78aa24c85b909b0683960c71b id-f08df1538a2d4945a07ba0194af985f7" archimateElement="id-c4d0ce61237a4b03a3f27f9d1b009e55">
+            <bounds x="468" y="24" width="120" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-12aa5c22d5514afa9607c08c1d7af966" source="id-3a2810558ed14ff3bc8e59adb8ae12aa" target="id-48171683c3f844ecbcfb13e021a405ed" archimateRelationship="id-910409c3681c46ec8fcf2be89b91c5ca"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-0cc657df55844afb88d41ad79a263f20" archimateElement="id-8fa16f9c69894e46ba236ae0230911bc">
+          <bounds x="-47" y="153" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-15eec2a30c724344975fd3319f33e76b" source="id-0cc657df55844afb88d41ad79a263f20" target="id-b599e444b30f424aa393f97b78ca550f" archimateRelationship="id-937bbcf4bfaf45a498c651052fd04b47"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5f89b95b61854a2e886a67c254b52c8b" archimateElement="id-ca35f8df80974169b04c1ffd58c12493">
+          <bounds x="557" y="51" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a313038c363b46429d14085dbb1c538e" source="id-5f89b95b61854a2e886a67c254b52c8b" target="id-b599e444b30f424aa393f97b78ca550f" archimateRelationship="id-a8ef868842644973850d7f8f8570bdd5"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-48171683c3f844ecbcfb13e021a405ed" targetConnections="id-12aa5c22d5514afa9607c08c1d7af966" archimateElement="id-6191979d2f304476ab02f638d4ece684">
+          <bounds x="576" y="312" width="120" height="55"/>
+        </child>
+        <property key="Last Update" value="2023/6/4"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
       </element>
     </folder>
