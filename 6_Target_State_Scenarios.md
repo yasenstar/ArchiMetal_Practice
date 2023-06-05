@@ -19,16 +19,16 @@
 ## Business Process Cooperation - Fulfillment of an Order at ArchiMetal
 
 - [Figure 30 Model File](Target_State_Scenario/ArchiMetal_Figure30_BizProcCoop_Fulfill-Order.archimate)
-- [Figure 30 Modeling Video](https://youtu.be/B6fvzITxKrY)
+- [Figure 30 Modeling Video](https://youtu.be/Q0ZMMRO6fHU)
 - ![Figure 30 Image](./Target_State_Scenario/Figure30_BusinessProcessCooperation_Fulfill-Order.jpg)
 
 ---
 
 ## Business Process View
 
-- [Figure 21 Model File](./Detail_Enterprise_Architecture/ArchiMate-21_Registration-New-Customer.archimate)
-- [Figure 21 Modeling Video](https://youtube.com/live/tw3rSWsOvoc)
-- ![Figure 21 Image](./Detail_Enterprise_Architecture/Figure21_Registraton%20of%20a%20New%20Customer.jpg)
+- [Figure 31 Model File](Target_State_Scenario/ArchiMetal_Figure31_BizProcView.archimate)
+- [Figure 31 Modeling Video](https://youtu.be/q-eTuARGYIM)
+- ![Figure 31 Image](./Target_State_Scenario/Figure31_Business-Process-View.jpg)
 
 ---
 
