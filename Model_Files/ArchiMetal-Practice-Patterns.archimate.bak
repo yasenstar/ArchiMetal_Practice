@@ -242,7 +242,7 @@
       <property key="Last Update" value="2023/5/19"/>
       <property key="Last Updated by" value="Xiaoqi Zhao"/>
     </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Pattern_Transformation-Overview" id="id-5774f0e9515b4d09964afb18422ff2bf">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Pattern_ArchiMetal_Transformation-Overview" id="id-5774f0e9515b4d09964afb18422ff2bf">
       <child xsi:type="archimate:Note" id="id-36453f00a5b74c438605084b7cf238ec" font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
         <bounds x="252" width="466" height="37"/>
         <feature name="labelExpression" value="$view{name}"/>
