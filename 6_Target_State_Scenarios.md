@@ -34,8 +34,8 @@
 
 ## Information Structure View
 
-- [Figure 21 Model File](./Detail_Enterprise_Architecture/ArchiMate-21_Registration-New-Customer.archimate)
-- [Figure 21 Modeling Video](https://youtube.com/live/tw3rSWsOvoc)
-- ![Figure 21 Image](./Detail_Enterprise_Architecture/Figure21_Registraton%20of%20a%20New%20Customer.jpg)
+- [Figure 32 Model File](./Target_State_Scenario/ArchiMetal_Figure32_InfoStructureView.archimate)
+- [Figure 32 Modeling Video](https://youtu.be/rzu2zJAXHlI)
+- ![Figure 32 Image](./Target_State_Scenario/Figure32_Information-Structure-View.jpg)
 
 ---
