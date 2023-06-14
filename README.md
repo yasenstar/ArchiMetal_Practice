@@ -15,11 +15,16 @@ Note: it's using opensource FreePlane to make above mindmap, which can be [downl
 
 Go to below chapters for models for every view in detail:
 
-- [2 ArchiMater Transformation Challenges](2_ArchiMetal_Transformation_Challenges.md)
-- [3 ArchiMetal CRM Vision](./3_ArchiMetal_CRM_Vision.md)
-- [4 ArchiMetal Transformation Overview](./4_ArchiMetal_Transformation_Overview.md)
-- [5 Detailed Target Enterprise Architecture](./5_Detailed_Target_Enterprise_Architecture.md)
-- [6 Target State Scenarios](./6_Target_State_Scenarios.md)
+- [ArchiMater Transformation Challenges](2_ArchiMetal_Transformation_Challenges.md)
+- [ArchiMetal CRM Vision](./3_ArchiMetal_CRM_Vision.md)
+- [ArchiMetal Transformation Overview](./4_ArchiMetal_Transformation_Overview.md)
+- [Detailed Target Enterprise Architecture](./5_Detailed_Target_Enterprise_Architecture.md)
+- [Target State Scenarios](./6_Target_State_Scenarios.md)
 
 ---
+
+## [ArchiSurance Case Study Modeling Patterns](7_ArchiMetal_Modeling_Patterns.md)
+
+---
+
 Any questions, welcome to mail to [Xiaoqi Zhao](mailto:xiaoqizhao@outlook.com)

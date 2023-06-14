@@ -4,6 +4,8 @@
 
 ![complete_pattern](Patterns/Pattern_for_ArchiMetal_Overall.jpg)
 
+---
+
 ## Chapter Pattern - Transformation Challenges
 
 ![1](Patterns/Pattern_1_Transformation-Challenges.jpg)
