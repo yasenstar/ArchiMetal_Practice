@@ -6,12 +6,6 @@
 
 - [Video for Initializing Archi Model](https://youtu.be/8zRQ65DApk8)
 - [Initial Archi Model](Model_Files/initial_model.archimate)
- 
-Here is the structure of the case study (You can explore every view from [GitPage URL](https://yasenstar.github.io/ArchiMetal_Practice/)):
-
-![file structure](img/ArchiMetal-Views-Structure.jpg)
-
-Note: it's using opensource FreePlane to make above mindmap, which can be [downloaded here](https://sourceforge.net/projects/freeplane/).
 
 Go to below chapters for models for every view in detail:
 
@@ -24,6 +18,14 @@ Go to below chapters for models for every view in detail:
 ---
 
 ## [ArchiSurance Case Study Modeling Patterns](7_ArchiMetal_Modeling_Patterns.md)
+
+---
+
+Here is the structure of the case study (You can explore every view from [GitPage URL](https://yasenstar.github.io/ArchiMetal_Practice/)):
+
+![file structure](img/ArchiMetal-Views-Structure.jpg)
+
+Note: it's using opensource FreePlane to make above mindmap, which can be [downloaded here](https://sourceforge.net/projects/freeplane/).
 
 ---
 
