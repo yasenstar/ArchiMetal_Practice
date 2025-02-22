@@ -290,7 +290,7 @@
       <element xsi:type="archimate:DataObject" name="New Equipment ID" id="id-89f4b36253eb49fcbf5f75119cf5ff24"/>
     </folder>
     <element xsi:type="archimate:DataObject" name="CRM Data" id="id-300c7dd906cb45b4b0b8e6bb0828221f"/>
-    <element xsi:type="archimate:ApplicationCollaboration" name="Total Cusotmer Debt" id="id-b8ba463d96e7480e8099014269c938e8"/>
+    <element xsi:type="archimate:ApplicationCollaboration" name="Total Customer Debt" id="id-b8ba463d96e7480e8099014269c938e8"/>
     <element xsi:type="archimate:ApplicationCollaboration" name="Customer Order Status" id="id-4c50a5c4b84a49128b53481ac94f3430"/>
   </folder>
   <folder name="Technology &amp; Physical" id="id-5ca56564155d43b9be291f65d929554e" type="technology">
