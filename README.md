@@ -1,32 +1,63 @@
-# ArchiMetal_Practice Modeling using Archi
- 
- This repository tracks the modeling steps for ArchiMetal case study, using Archi ArchiMate Modeling tool. Click below logo for download the tool and enjoy:
+# ArchiMate® Practice: ArchiMetal Case Study
 
-[![Archi_Logo](./img/Archi_Logo.png)](https://www.archimatetool.com/download/)
+Welcome to the **ArchiMetal Practice** repository. This project is dedicated to helping Enterprise Architects and students master the ArchiMate® modeling language through the lens of the official ArchiMetal case study.
 
-- [Video for Initializing Archi Model](https://youtu.be/8zRQ65DApk8)
-- [Initial Archi Model](Model_Files/initial_model.archimate)
+## 🎯 Purpose
 
-Go to below chapters for models for every view in detail:
+Preparing for the **ArchiMate® Practitioner (Level 2) Certification** requires a deep understanding of how to apply the language to complex, real-world scenarios. 
 
-- [ArchiMater Transformation Challenges](2_ArchiMetal_Transformation_Challenges.md)
-- [ArchiMetal CRM Vision](./3_ArchiMetal_CRM_Vision.md)
-- [ArchiMetal Transformation Overview](./4_ArchiMetal_Transformation_Overview.md)
-- [Detailed Target Enterprise Architecture](./5_Detailed_Target_Enterprise_Architecture.md)
-- [Target State Scenarios](./6_Target_State_Scenarios.md)
+To succeed in the exam and in professional practice, it is essential to master two equally important case studies provided by The Open Group:
+1.  **ArchiMetal** (Manufacturing Domain) - *This Repository*
+2.  **[ArchiSurance](https://github.com/yasenstar/ArchiSurance_Practice)** (Insurance Domain)
+
+Together, these two cases cover the breadth of the ArchiMate specification, from baseline to target architectures, including Motivation, Strategy, Implementation, and Migration layers.
 
 ---
 
-## [ArchiSurance Case Study Modeling Patterns](7_ArchiMetal_Modeling_Patterns.md)
+## 🎓 Learning Resources
+
+To accelerate your learning journey, I have provided both structured and free resources:
+
+### 🌟 Comprehensive Udemy Course
+For a well-packaged, step-by-step guided experience, enroll in the full course:
+**[Archi/ArchiMate Modeling Practices with ArchiMetal](https://www.udemy.com/course/archi-archimate-modeling-practices-with-archimetal/?referralCode=8D924B20ABC6D50F6EA2)**
+*Includes detailed explanations, modeling patterns, and best practices using the Archi tool.*
+
+### 📺 Free YouTube Tutorials
+I believe in sharing knowledge. You can access all my demo videos for free on YouTube:
+**[ArchiMetal Modeling Practice Playlist](https://www.youtube.com/playlist?list=PL6DEHvciXKeU6STbudArH_S1t74sa2hkt)**
 
 ---
 
-Here is the structure of the case study (You can explore every view from [GitPage URL](https://yasenstar.github.io/ArchiMetal_Practice/)):
+## 🛠 What's Inside?
 
-![file structure](img/ArchiMetal-Views-Structure.jpg)
-
-Note: it's using opensource FreePlane to make above mindmap, which can be [downloaded here](https://sourceforge.net/projects/freeplane/).
+This repository contains:
+- **`.archimate` models:** Source files compatible with the [Archi®](https://www.archimatetool.com/) modeling tool.
+- **Diagram Exports:** High-resolution images of the various architecture viewpoints (Business, Application, Technology, etc.).
+- **Reference Material:** Mapping between the case study text and ArchiMate elements.
 
 ---
 
-Any questions, welcome to mail to [Xiaoqi Zhao](mailto:xiaoqizhao@outlook.com)
+## 👨‍💻 About the Author
+
+I am **Xiaoqi**, an Enterprise Architecture expert with extensive experience in driving digital transformation and organizational alignment through architectural excellence.
+
+I am passionate about mentoring the next generation of architects. You can find more about my work, insights, and professional experience on my homepage:
+
+🔗 **[xiaoqi.com](https://xiaoqi.com)**
+
+---
+
+## 🔗 Related Projects
+
+Don't forget to check out the sister project to complete your certification preparation:
+- [ArchiSurance Practice Repository](https://github.com/yasenstar/ArchiSurance_Practice)
+
+---
+
+## 📝 License
+
+This project is intended for educational purposes. ArchiMate® is a registered trademark of The Open Group.
+
+---
+*If you find this repository helpful, please consider giving it a ⭐ to help other practitioners find it!*
